@@ -8,7 +8,7 @@ they come up.
 ## Setup
 
 ```bash
-git clone <this repo>
+git clone https://github.com/gaurimk/llm-cost-autopilot
 cd llm-cost-autopilot
 python3 -m venv venv && source venv/bin/activate
 pip install -r requirements.txt
