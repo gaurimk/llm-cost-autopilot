@@ -1,0 +1,26 @@
+# Routing Map
+# =============
+# Maps each complexity tier to a model name from app/models/registry.py.
+# Edit this file (or PUT /v1/routing-config) to change routing behavior
+# without touching or redeploying any code.
+#
+# tier 1 = simple    (reformatting, extraction, basic Q&A)
+# tier 2 = moderate  (summarization, classification, structured analysis)
+# tier 3 = complex   (multi-step reasoning, creative generation, judgment)
+
+tier_to_model:
+  1: gpt-4o-mini
+  2: gpt-4o-mini
+  3: gpt-4o
+
+# Model used by the async verifier as the "ground truth" for quality checks.
+verifier_reference_model: gpt-4o
+
+# If the verifier's agreement score falls below this, the request is logged
+# as a routing failure and (if within latency budget) auto-escalated.
+quality_threshold: 0.7
+
+# Max additional latency (ms) we're willing to accept to auto-escalate a
+# request in the same request/response cycle. Above this, escalation still
+# happens asynchronously but the user already got the fast answer.
+max_escalation_latency_ms: 3000

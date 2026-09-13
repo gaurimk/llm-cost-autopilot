@@ -1,0 +1,211 @@
+prompt,tier
+Turn these meeting notes into a structured status report: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Write a nuanced performance review for an employee who is strong at in-office work but struggles with microservices.,3
+"Given the table below, what is the value in row 2? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+"Turn these meeting notes into a structured status report: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+"Given the table below, what is the value in row 2? Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Convert this list to a comma-separated string: apple, banana, cherry",1
+Uppercase every word in this sentence: Customer reports login failures since the last update and wants a refund.,1
+Synthesize insights from these three reports and recommend a Q3 strategy for a recommendation engine.,3
+What is the capital of Canada?,1
+"Given the following context, what is the customer's order number? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+Reformat this date 03/14/2024 into YYYY-MM-DD format.,1
+Design a system architecture for a supply chain optimizer that handles GDPR compliance.,3
+Debate the ethical implications of an LLM routing platform from two opposing viewpoints.,3
+What year did the fall of the Berlin Wall happen?,1
+"Given this codebase description, design a migration plan from a monolith to microservices with rollback steps.",3
+"Given the table below, what is the value in row 2? The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+Critique this business plan and recommend three specific improvements: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,3
+"Given the following context, what is the customer's order number? The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+Uppercase every word in this sentence: Customer reports login failures since the last update and wants a refund.,1
+"Given the following context, what is the customer's order number? The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+"Given this transcript, list the action items discussed: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Convert this list to a comma-separated string: north, south, east, west",1
+Write a nuanced performance review for an employee who is strong at Rust but struggles with microservices.,3
+Extract all phone numbers from this text: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,1
+"Given the table below, what is the value in row 2? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+"Extract the email address from this text: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+Uppercase every word in this sentence: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,1
+"Given this transcript, list the action items discussed: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Given conflicting stakeholder priorities (remote work vs microservices), propose a compromise strategy for a healthcare scheduling app.",3
+"Given these reviews, extract the overall sentiment and 3 key themes: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",2
+Classify each of these emails as spam or not spam: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+"Given this transcript, list the action items discussed: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+Debate the ethical implications of a supply chain optimizer from two opposing viewpoints.,3
+Organize the following notes into a structured outline: Customer reports login failures since the last update and wants a refund.,2
+Debate the ethical implications of a healthcare scheduling app from two opposing viewpoints.,3
+Write a short story about a fintech onboarding flow that explores the theme of trust.,3
+"Analyze the tradeoffs between microservices and Python for a startup deciding on a healthcare scheduling app, and recommend one with justification.",3
+Organize the following notes into a structured outline: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+"Given this dataset description, suggest an appropriate chart type.",2
+"Extract the email address from this text: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+"Given these reviews, extract the overall sentiment and 3 key themes: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",2
+Summarize this contract clause in plain language: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+What year did the moon landing happen?,1
+Turn this JSON into a bulleted list: Customer reports login failures since the last update and wants a refund.,1
+"Reformat this date July 4, 2025 into YYYY-MM-DD format.",1
+Write a short story about a supply chain optimizer that explores the theme of isolation.,3
+Write a short story about a recommendation engine that explores the theme of isolation.,3
+"Analyze the tradeoffs between Python and microservices for a startup deciding on a healthcare scheduling app, and recommend one with justification.",3
+Organize the following notes into a structured outline: Customer reports login failures since the last update and wants a refund.,2
+"Given this transcript, list the action items discussed: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+Extract all phone numbers from this text: Customer reports login failures since the last update and wants a refund.,1
+"Given this dataset description, suggest an appropriate chart type.",2
+"Extract all phone numbers from this text: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Uppercase every word in this sentence: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+Organize the following notes into a structured outline: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Write a short story about an LLM routing platform that explores the theme of trust.,3
+Summarize the key differences between Python and in-office work.,2
+Debate the ethical implications of a supply chain optimizer from two opposing viewpoints.,3
+Write a short story about a healthcare scheduling app that explores the theme of ambition.,3
+"Analyze the tradeoffs between in-office work and a monolith for a startup deciding on a healthcare scheduling app, and recommend one with justification.",3
+Write a nuanced performance review for an employee who is strong at microservices but struggles with Python.,3
+"Given this dataset description, suggest an appropriate chart type.",2
+"Given these reviews, extract the overall sentiment and 3 key themes: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+Extract all phone numbers from this text: Customer reports login failures since the last update and wants a refund.,1
+"Classify each of these emails as spam or not spam: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+What is the capital of Canada?,1
+Reformat this date 03/14/2024 into YYYY-MM-DD format.,1
+Turn this JSON into a bulleted list: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,1
+Summarize this contract clause in plain language: Customer reports login failures since the last update and wants a refund.,2
+Design a system architecture for a fintech onboarding flow that handles offline usage.,3
+Critique this business plan and recommend three specific improvements: Customer reports login failures since the last update and wants a refund.,3
+"Propose an experiment design to test whether a recommendation engine improves remote work, including controls for GDPR compliance.",3
+"Given these reviews, extract the overall sentiment and 3 key themes: Customer reports login failures since the last update and wants a refund.",2
+Design a system architecture for a supply chain optimizer that handles sub-200ms latency.,3
+Synthesize insights from these three reports and recommend a Q3 strategy for an LLM routing platform.,3
+Write a short story about a fintech onboarding flow that explores the theme of trust.,3
+"Analyze the tradeoffs between a monolith and Rust for a startup deciding on a fintech onboarding flow, and recommend one with justification.",3
+"Critique this business plan and recommend three specific improvements: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",3
+Reformat this date 03/14/2024 into YYYY-MM-DD format.,1
+"Analyze the tradeoffs between in-office work and in-office work for a startup deciding on a supply chain optimizer, and recommend one with justification.",3
+"Given this transcript, list the action items discussed: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",2
+Summarize the key differences between Rust and remote work.,2
+"Organize the following notes into a structured outline: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+"Extract the email address from this text: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Analyze the tradeoffs between in-office work and Rust for a startup deciding on a recommendation engine, and recommend one with justification.",3
+Reformat this date 12-25-2023 into YYYY-MM-DD format.,1
+What is the capital of France?,1
+"Given this codebase description, design a migration plan from in-office work to Rust with rollback steps.",3
+Synthesize insights from these three reports and recommend a Q3 strategy for a fintech onboarding flow.,3
+Turn these meeting notes into a structured status report: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Turn these meeting notes into a structured status report: Customer reports login failures since the last update and wants a refund.,2
+Turn these meeting notes into a structured status report: Customer reports login failures since the last update and wants a refund.,2
+"Given this codebase description, design a migration plan from microservices to Rust with rollback steps.",3
+"Given these reviews, extract the overall sentiment and 3 key themes: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",2
+"Given the table below, what is the value in row 2? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+"Organize the following notes into a structured outline: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Given this codebase description, design a migration plan from a monolith to in-office work with rollback steps.",3
+"Given these reviews, extract the overall sentiment and 3 key themes: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+Summarize the following article in 3 sentences: Customer reports login failures since the last update and wants a refund.,2
+"Given this dataset description, suggest an appropriate chart type.",2
+Design a system architecture for a healthcare scheduling app that handles sub-200ms latency.,3
+"Extract the email address from this text: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+Design a system architecture for a recommendation engine that handles offline usage.,3
+Summarize this contract clause in plain language: Customer reports login failures since the last update and wants a refund.,2
+"Classify this support ticket as billing, technical, or account: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Propose an experiment design to test whether a supply chain optimizer improves Python, including controls for sub-200ms latency.",3
+"Given the following context, what is the customer's order number? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+What year did the fall of the Berlin Wall happen?,1
+Write a nuanced performance review for an employee who is strong at remote work but struggles with Python.,3
+"Summarize this contract clause in plain language: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Given conflicting stakeholder priorities (microservices vs remote work), propose a compromise strategy for a fintech onboarding flow.",3
+What is the capital of Kenya?,1
+"Classify each of these emails as spam or not spam: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Analyze the tradeoffs between Rust and Rust for a startup deciding on a supply chain optimizer, and recommend one with justification.",3
+Critique this business plan and recommend three specific improvements: Customer reports login failures since the last update and wants a refund.,3
+Design a system architecture for a supply chain optimizer that handles sub-200ms latency.,3
+"Classify this support ticket as billing, technical, or account: Customer reports login failures since the last update and wants a refund.",2
+Summarize this contract clause in plain language: Customer reports login failures since the last update and wants a refund.,2
+"Given these reviews, extract the overall sentiment and 3 key themes: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+Design a system architecture for a fintech onboarding flow that handles sub-200ms latency.,3
+"Given conflicting stakeholder priorities (microservices vs a monolith), propose a compromise strategy for a supply chain optimizer.",3
+Write a nuanced performance review for an employee who is strong at remote work but struggles with Python.,3
+Synthesize insights from these three reports and recommend a Q3 strategy for a supply chain optimizer.,3
+"Given this transcript, list the action items discussed: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+What is the capital of Canada?,1
+Write a nuanced performance review for an employee who is strong at a monolith but struggles with in-office work.,3
+"Given this dataset description, suggest an appropriate chart type.",2
+"Classify this support ticket as billing, technical, or account: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+Summarize the key differences between microservices and microservices.,2
+"Extract all phone numbers from this text: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+Write a nuanced performance review for an employee who is strong at a monolith but struggles with in-office work.,3
+What is the capital of Japan?,1
+"Summarize this contract clause in plain language: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Given this transcript, list the action items discussed: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+"Uppercase every word in this sentence: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+"Analyze the tradeoffs between a monolith and microservices for a startup deciding on a healthcare scheduling app, and recommend one with justification.",3
+What year did the moon landing happen?,1
+"Given these reviews, extract the overall sentiment and 3 key themes: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Given the following context, what is the customer's order number? Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Given the table below, what is the value in row 2? The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+"Given conflicting stakeholder priorities (Rust vs in-office work), propose a compromise strategy for a supply chain optimizer.",3
+"Extract all phone numbers from this text: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+What year did the first iPhone launch happen?,1
+"Given this codebase description, design a migration plan from Python to in-office work with rollback steps.",3
+Uppercase every word in this sentence: Customer reports login failures since the last update and wants a refund.,1
+"Extract all phone numbers from this text: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Classify this support ticket as billing, technical, or account: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",2
+Summarize the key differences between Python and a monolith.,2
+Organize the following notes into a structured outline: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Debate the ethical implications of an LLM routing platform from two opposing viewpoints.,3
+Debate the ethical implications of a recommendation engine from two opposing viewpoints.,3
+"Classify this support ticket as billing, technical, or account: Customer reports login failures since the last update and wants a refund.",2
+Synthesize insights from these three reports and recommend a Q3 strategy for a supply chain optimizer.,3
+What is the capital of France?,1
+"Classify this support ticket as billing, technical, or account: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+Debate the ethical implications of a supply chain optimizer from two opposing viewpoints.,3
+Classify each of these emails as spam or not spam: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+What is the capital of Japan?,1
+Write a short story about a healthcare scheduling app that explores the theme of trust.,3
+"Summarize the following article in 3 sentences: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+"Analyze the tradeoffs between microservices and remote work for a startup deciding on an LLM routing platform, and recommend one with justification.",3
+"Turn these meeting notes into a structured status report: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+"Classify each of these emails as spam or not spam: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+"Convert this list to a comma-separated string: apple, banana, cherry",1
+"Extract all phone numbers from this text: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+"Given this transcript, list the action items discussed: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+"Reformat this date July 4, 2025 into YYYY-MM-DD format.",1
+Turn this JSON into a bulleted list: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,1
+"Given the following context, what is the customer's order number? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+Organize the following notes into a structured outline: Customer reports login failures since the last update and wants a refund.,2
+"Given the table below, what is the value in row 2? Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Given this dataset description, suggest an appropriate chart type.",2
+"Convert this list to a comma-separated string: red, green, blue",1
+Synthesize insights from these three reports and recommend a Q3 strategy for a supply chain optimizer.,3
+"Given these reviews, extract the overall sentiment and 3 key themes: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",2
+Design a system architecture for a fintech onboarding flow that handles a fixed $500/month budget.,3
+Design a system architecture for a fintech onboarding flow that handles a fixed $500/month budget.,3
+Turn these meeting notes into a structured status report: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Design a system architecture for a fintech onboarding flow that handles a fixed $500/month budget.,3
+What is the capital of Canada?,1
+"Given the table below, what is the value in row 2? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+"Extract the email address from this text: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Analyze the tradeoffs between Python and a monolith for a startup deciding on an LLM routing platform, and recommend one with justification.",3
+What year did the moon landing happen?,1
+Synthesize insights from these three reports and recommend a Q3 strategy for a supply chain optimizer.,3
+"Convert this list to a comma-separated string: north, south, east, west",1
+"Uppercase every word in this sentence: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Given the table below, what is the value in row 2? Customer reports login failures since the last update and wants a refund.",1
+"Given the table below, what is the value in row 2? Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",1
+"Summarize the following article in 3 sentences: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+Organize the following notes into a structured outline: Customer reports login failures since the last update and wants a refund.,2
+Extract all phone numbers from this text: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,1
+"Propose an experiment design to test whether a supply chain optimizer improves remote work, including controls for GDPR compliance.",3
+Design a system architecture for a healthcare scheduling app that handles a fixed $500/month budget.,3
+Debate the ethical implications of an LLM routing platform from two opposing viewpoints.,3
+"Given the following context, what is the customer's order number? The quarterly report shows revenue up 12% and churn down 3% versus last quarter.",1
+"Summarize the following article in 3 sentences: Order #4471 was placed by Jane Doe on Tuesday, contact jane.doe@example.com.",2
+What year did the fall of the Berlin Wall happen?,1
+"Extract the email address from this text: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",1
+"Given this codebase description, design a migration plan from remote work to Python with rollback steps.",3
+Turn these meeting notes into a structured status report: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Organize the following notes into a structured outline: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+"Classify this support ticket as billing, technical, or account: Customer reports login failures since the last update and wants a refund.",2
+"Summarize this contract clause in plain language: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+Summarize the following article in 3 sentences: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,2
+Critique this business plan and recommend three specific improvements: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,3
+"Organize the following notes into a structured outline: The meeting covered budget, hiring, and Q3 roadmap; contact ops@example.com for details.",2
+Write a nuanced performance review for an employee who is strong at a monolith but struggles with Python.,3
+"Given this codebase description, design a migration plan from Rust to Rust with rollback steps.",3
+Turn this JSON into a bulleted list: The quarterly report shows revenue up 12% and churn down 3% versus last quarter.,1
